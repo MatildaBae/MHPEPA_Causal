@@ -1,7 +1,9 @@
 # MHPAEA Causal Inference Study 🧠📊
 
 ## Overview 🌟
-This project investigates the causal effect of the **Mental Health Parity and Addiction Equity Act (MHPAEA)** on the utilization of mental health services and specialist consultations. The focus is on comparing the average treatment effect (ATE) between individuals who received the treatment (those with private insurance) and those who did not. The study uses a **Difference-in-Differences (DID)** approach to estimate the causal effect, adjusting for confounders using **propensity score matching**.
+This project investigates the causal effect of the **Mental Health Parity and Addiction Equity Act (MHPAEA)** on the utilization of mental health services and specialist consultations. The MHPAEA, enacted in 2008, mandates parity between mental health/substance use disorder (MH/SUD) benefits and medical/surgical benefits in group health plans and health insurance coverage. The focus of this study is to compare the **average treatment effect (ATE)** between individuals who received the treatment (those with private insurance) and those who did not. 
+
+The study uses a **Difference-in-Differences (DID)** approach to estimate the causal effect, comparing pre- and post-treatment differences between the treatment and control groups. Additionally, the analysis adjusts for confounders using **propensity score matching**, ensuring more accurate comparison between groups.
 
 ## Objective 🎯
 - **Primary Goal**: Estimate the causal effect of MHPAEA on the utilization of mental health services by comparing the treatment group (private insurance holders) with the control group (non-private insurance holders).
