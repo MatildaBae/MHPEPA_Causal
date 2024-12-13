@@ -39,7 +39,6 @@ The study uses a **Difference-in-Differences (DID)** approach to estimate the ca
 - Explore other potential treatment effects, such as subgroup analysis based on demographics.
 - Investigate the long-term impact of MHPAEA on mental health outcomes.
 
-/--
 
 # MHPAEA 인과추론 연구 🧠📊
 
